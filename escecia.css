@@ -5,6 +5,13 @@ body{
     text-align: center;
 }
 
+#cabecera{
+    font-size:x-large;
+    text-align: center;
+    border: 50px;
+    color:black;
+}
+
 #Lorem{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
